@@ -1,15 +1,26 @@
-# Lead-Tracker
-**How to Deploy??**
-1. fork the above repository.
-2. Go to a directory where you want to save the file.
-4. clone into the local directory using the following command : 
- ``` git clone https://github.com/soniyaprasad77/Lead-Tracker.git ``` 
-5. Download the Lead Tracker folder.
-6. go to chrome://extensions
-7. click on Load Unpacked.
-8. Select the Lead Track Folder and Upload it.
+# Lead Tracker Chrome Extension
 
-** Now You are ready to use the extension. **
+Lead Tracker is a Chrome extension designed to streamline the process of saving links and managing your current tabs. Additionally, it includes a feature for easily deleting saved links.
+
+## How to Deploy
+
+Follow these steps to deploy the Lead Tracker Chrome extension:
+
+1. Begin by forking the repository.
+2. Choose a directory where you'd like to save the files.
+3. Clone the repository to your local directory using the following command:
+
+```bash
+git clone https://github.com/soniyaprasad77/Lead-Tracker.git
+```
+
+4. Download the Lead Tracker folder.
+5. Open Chrome and go to `chrome://extensions`.
+6. Enable developer mode using the toggle in the top right corner.
+7. Click on "Load Unpacked" and select the Lead Tracker folder.
+8. The extension is now uploaded and ready to use.
+
+Enjoy using Lead Tracker to efficiently manage your links and tabs!
 
 **How to Use?**
 1. Open your Chrome and go to Extensions.![Screenshot (91)](https://github.com/soniyaprasad77/Lead-Tracker/assets/63783532/2d7c8309-ed22-4a69-8608-bb451dd0b860)
