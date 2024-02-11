@@ -14,7 +14,7 @@ Follow these steps to deploy the Lead Tracker Chrome extension:
 git clone https://github.com/soniyaprasad77/Lead-Tracker.git
 ```
 
-4. Download the Lead Tracker folder.
+4. Now the Lead Tracker folder is in your local directory.
 5. Open Chrome and go to `chrome://extensions`.
 6. Enable developer mode using the toggle in the top right corner.
 7. Click on "Load Unpacked" and select the Lead Tracker folder.
